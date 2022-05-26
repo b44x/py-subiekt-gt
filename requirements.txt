@@ -1,0 +1,4 @@
+colorama==0.4.4
+pymssql==2.2.5
+pywin32==304
+tqdm==4.64.0
